@@ -19,7 +19,7 @@
 					</div>
 					<div class="card fat">
 						<div class="card-body">
-							<h4 class="card-title">Login</h4>
+							<h4 class="card-title">Loginn</h4>
 							<form method="POST" action="<?php echo site_url('Login/aksi_login') ?>" class="my-login-validation" novalidate="">
 								<div class="form-group">
 									<label for="username">Username</label>
